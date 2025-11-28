@@ -25,12 +25,9 @@ The goal: help institutions assess third‑party vendors for cybersecurity, priv
 - **Database:** MySQL (vendor data storage and queries)
 - **Framework:** ASP.NET Core with Razor Pages   
 - **IDE/Tools:** Visual Studio (development environment), GitHub (version control)
-
+  
 ---
 
-## 🚀 How to Run
-
----
 ## 📚 What I Learned
 - How to design and query relational databases using MySQL  
 - Deploying and managing applications with Microsoft Azure  
