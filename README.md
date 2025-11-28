@@ -29,3 +29,11 @@ The goal: help institutions assess third‑party vendors for cybersecurity, priv
 ---
 
 ## 🚀 How to Run
+
+---
+## 📚 What I Learned
+- How to design and query relational databases using MySQL  
+- Deploying and managing applications with Microsoft Azure  
+- Using Visual Studio for collaborative development and debugging  
+- Applying HECVAT standards to evaluate vendor cybersecurity and compliance risks  
+- Documenting projects clearly for technical and non‑technical audiences
