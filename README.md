@@ -22,8 +22,8 @@ The goal: help institutions assess third‑party vendors for cybersecurity, priv
 ## 💻 Tech Stack
 - **Languages:** Python, JavaScript  
 - **Concepts:** Cybersecurity risk assessment, vendor management, compliance evaluation
-- **Database:** MySQL (vendor data storage and queries)  
-- **Cloud Services:** Microsoft Azure (deployment, hosting, and cloud integration)  
+- **Database:** MySQL (vendor data storage and queries)
+- **Framework:** ASP.NET Core with Razor Pages   
 - **IDE/Tools:** Visual Studio (development environment), GitHub (version control)
 
 ---
